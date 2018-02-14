@@ -186,7 +186,7 @@ public class SplashScreen extends Activity {
 
 
 
-        // JSONParser jParser = null;
+
         JSONObject json = null;
 
 
